@@ -6,6 +6,9 @@ import java.util.Set;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
+import com.fnt.entity.Role;
+import com.fnt.entity.User;
+
 public class CreateTestDataService {
 
 	RoleRepository roleRepository = new RoleRepository();

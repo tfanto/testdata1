@@ -49,6 +49,11 @@
 			<version>${version.logback}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.fnt</groupId>
+			<artifactId>model</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 
 	</dependencies>
